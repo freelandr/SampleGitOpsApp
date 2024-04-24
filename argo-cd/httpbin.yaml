@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     chart: httpbin
-    repoURL: 'https://github.com/matheusfm/httpbin-chart.git'
+    repoURL: 'https://matheusfm.dev/charts'
     targetRevision: 0.1.1
     helm:
       releaseName: httpbin
